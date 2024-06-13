@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import 'antd/dist/antd.css';
 import { List, Card, Button, Layout, Menu, Breadcrumb } from 'antd';
 
 const { Header, Content, Footer, Sider } = Layout;
